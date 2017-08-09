@@ -1,0 +1,5 @@
+ 10. How to delete an element from the array?
+
+
+users=["raja","rajar","rajarshi"];
+ delete users[o];//deletes first element from users array

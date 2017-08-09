@@ -1,0 +1,7 @@
+ 8. How to get the first element from the array?
+
+ users=["raja","rajar","rajarshi"];
+
+ var firstelement = users[0];
+
+ cosole.log(firstelement);

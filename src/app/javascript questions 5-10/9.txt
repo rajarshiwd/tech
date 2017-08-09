@@ -1,0 +1,7 @@
+9.How to get last element from the array?
+
+ users=["raja","rajar","rajarshi"];
+
+var lastelement = users[users.length - 1]; 
+
+cosole.log(lastelement);

@@ -1,0 +1,5 @@
+ 7. How to add an element in the middle of array?
+
+users=["raja","rajar","rajarshi"];
+
+arr.splice(2, 0, "rajars");
